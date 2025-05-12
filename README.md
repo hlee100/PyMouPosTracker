@@ -1,2 +1,2 @@
 # PyMouPosTracker Libary
-A Python libary that tracks the x and y positisons of your mouse curosor
+A Python library that tracks the x and y positions of your mouse cursor.
