@@ -2,7 +2,7 @@ import pyautogui
 import keyboard
 import time
 
-class trackMousePosition():
+class TrackMousePosition():
     def __init__(self):
         pass
 

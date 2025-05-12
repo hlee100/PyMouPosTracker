@@ -1,1 +1,3 @@
-from PyMouPosTracker import trackMousePosition
+from .pymoupostracker import TrackMousePosition
+
+__all__ = ["TrackMousePosition"]
