@@ -2,11 +2,11 @@ import pyautogui
 import keyboard
 import time
 
-class MouseTrack():
+class trackMousePosition():
     def __init__(self):
         pass
 
-    def mousePosition():
+    def mousePosition(self):
         print("Press the 'Enter' key to quit.")
 
         while not keyboard.is_pressed('Enter'):
